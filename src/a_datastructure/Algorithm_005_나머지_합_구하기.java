@@ -13,10 +13,12 @@ public class Algorithm_005_나머지_합_구하기 {
         long[] C = new long[M];
         long answer = 0;
         S[0] = sc.nextInt();
-        //이전의 인덱스에 입력한 값을 더해서 배열에 값 대입
+        //이전의 인덱스에 입력한 값을 더해서 배열에 값 대입. for문의 수행 길이가 같다고 해서 합치면 안된다.(이전의 인덱스를 사용하기 때문)
         for(int i = 0;i<N;i++)S[i]=S[i-1]+sc.nextInt();
         for(int i = 0;i<N;i++){
+            //S배열( 합 배열 ) 의 모든 값들을 M과 나머지 연산.
             int remainder = (int) (S[i] % M);
+
         }
 
     }

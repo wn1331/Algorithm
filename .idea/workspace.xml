@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8893aac7-7b3c-41f8-8d0f-d4c83628db10" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_datastructure/Algorithm_002_평균_구하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_datastructure/Algorithm_005_나머지_합_구하기.java" afterDir="false" />
+    <list default="true" id="8893aac7-7b3c-41f8-8d0f-d4c83628db10" name="Changes" comment="Changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_datastructure/Algorithm_001_숫자의_합_구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_datastructure/Algorithm_001_숫자의_합_구하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_datastructure/Algorithm_005_나머지_합_구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_datastructure/Algorithm_005_나머지_합_구하기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/jujonghun/Algorithm",
+    "last_opened_file_path": "C:/Users/wnwhd/OneDrive/바탕 화면/Algorithm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -54,6 +50,7 @@
       <updated>1672932218443</updated>
       <workItem from="1672932219667" duration="1311000" />
       <workItem from="1673001544504" duration="2474000" />
+      <workItem from="1673021626102" duration="5075000" />
     </task>
     <servers />
   </component>
